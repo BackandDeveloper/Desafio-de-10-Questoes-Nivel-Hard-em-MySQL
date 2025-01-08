@@ -5,7 +5,6 @@
 # Desafio de 10 Questões Nível Hard em MySQL
 
 
-
 ## Estrutura do Repositório
 
 - `questao1.sql`: 
