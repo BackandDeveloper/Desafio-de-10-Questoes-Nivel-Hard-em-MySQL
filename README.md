@@ -4,7 +4,6 @@
 
 
 
-
 ## Estrutura do Repositório
 
 - `questao1.sql`: 
