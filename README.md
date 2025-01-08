@@ -38,7 +38,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
  
 Caso  queira entrar em contat ocomigo, solicitando algo, segue abaixo meu e-mail:
 
-📧| henrique.sousa62
+📧| henrique.sousa62@
 
 
 
