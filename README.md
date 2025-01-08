@@ -1,3 +1,3 @@
 
 
-Nessa atividade, eu realizei um desafio que foi proposto no curso T
+Nessa atividade, eu realizei um desafio que fo
