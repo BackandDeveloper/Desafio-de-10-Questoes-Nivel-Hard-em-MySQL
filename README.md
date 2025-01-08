@@ -20,4 +20,7 @@ Este repositório contém a resolução de 10 questões de nível hard em MySQL,
 1. Clone o repositório:
    ```bash
    git clone https://github.com/BackandDeveloper/Desafio-de-10-Questoes-Nivel-Hard-em-MySQL.git
-
+2. Navegue até o diretório do repositório:
+   
+   ```
+   cd Desafio-de-10-Questoes-Nivel-Hard-em
