@@ -29,3 +29,9 @@ Este repositório contém a resolução de 10 questões de nível hard em MySQL,
    cd Desafio-de-10-Questoes-Nivel-Hard-em
    ```
 3. Execute os scripts SQL em seu ambiente MySQL para testar as resoluções das questões.
+
+Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+
+Espero que isso ajude! Se precisar de mais alguma coisa, é só avisar.
