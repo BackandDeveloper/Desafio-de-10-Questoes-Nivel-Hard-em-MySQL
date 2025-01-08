@@ -1,3 +1,3 @@
-## | Desafio MySQL Nível 
+## | Desafio MySQL Nível Hard
 
 
