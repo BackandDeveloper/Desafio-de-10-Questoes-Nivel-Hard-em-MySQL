@@ -35,4 +35,4 @@ Este repositório contém a resolução de 10 questões de nível hard em MySQL,
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 
-Espero que isso ajude! Se precisar de mais alguma coisa, é só avisar.
+
