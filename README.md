@@ -10,7 +10,7 @@ Este repositório contém a resolução de 10 questões de nível hard em MySQL,
 - `questao4.sql`: Resolução da questão 4
 - `questao5.sql`: Resolução da questão 5
 - `questao6.sql`: Resolução da questão 6
-- `questao7.sql`: Resolução da questão 7
+
 
 
 
