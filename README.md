@@ -6,7 +6,7 @@ Neste trabalho MySQL, realizei cerca de 10 questões de Banco de Dados, na qual 
 
 ## Descrição
 
-Este repositório contém a resolução de 10 questões de nível hard em MySQL, como parte do curso Técnico em Informática para Web no IFCE. O objetivo deste desafio é testar e consolidar os conhecimentos adquiridos sobre banco de dados ao longo do curso.
+Este repositório contém a resolução de 10 questões de nível hard em MySQL, como parte do curso Técnico em Informática para 
 
 ## Estrutura do Repositório
 
