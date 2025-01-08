@@ -36,6 +36,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 
 ## | Contatos
 
-  Caso  queira entrar em contat ocomigo, solicitando algo,
+  Caso  queira entrar em contat ocomigo, solicitando algo, segue a
 
 
