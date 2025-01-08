@@ -1,6 +1,6 @@
 ## 🎲| Desafio MySQL Nível Hard
 
-Neste trabalho MySQL, realizei cerca
+Neste
 
 # Desafio de 10 Questões Nível Hard em MySQL
 
