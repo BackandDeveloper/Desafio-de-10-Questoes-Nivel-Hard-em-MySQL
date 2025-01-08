@@ -2,7 +2,7 @@
 
 Este repositório contém a resolução de 10 questões de nível hard em MySQL, como parte do curso Técnico em Informática para para Web no IFCE. O objetivo deste desafio é testar e consolidar os conhecimentos adquiridos sobre banco de dados ao longo do curso.
 
-## | Tecnologias Utilizadas
+## 📱| Tecnologias Utilizadas
 
 | MySQL
 
