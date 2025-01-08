@@ -4,7 +4,7 @@ Este repositório contém a resolução de 10 questões de nível hard em MySQL,
 
 ## | Tecnologias Utilizadas
 
-MySQL
+|MySQL
 
 ## 🗂️| Estrutura do Repositório
 
