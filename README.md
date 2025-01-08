@@ -18,7 +18,6 @@ Este repositório contém a resolução de 10 questões de nível hard em MySQL,
 ## Como Utilizar
 
 
-
 ## Estrutura do Repositório
 
 - `questao1.sql`: 
