@@ -1,5 +1,5 @@
 ## 🎲| Desafio MySQL Nível Hard
 
-Neste trabalho MySQL, realizei cerca de 10 questões de
+Neste trabalho MySQL, realizei cerca de 10 questões de Banco
 
 
