@@ -19,7 +19,7 @@ Este repositório contém a resolução de 10 questões de nível hard em MySQL,
 - `questao9.sql`: 
 - `questao10.sql`:
 
-## | Como Utilizar
+## 📋| Como Utilizar
 
 1. Clone o repositório:
    ```bash
