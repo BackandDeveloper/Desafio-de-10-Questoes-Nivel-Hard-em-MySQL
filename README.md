@@ -1,5 +1,5 @@
 ## 🎲| Desafio MySQL Nível Hard
 
-Neste trabalho MySQL
+Neste trabalho MySQL, realizei
 
 
