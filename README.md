@@ -6,7 +6,7 @@ Neste trabalho MySQL, realizei cerca de 10 questões de Banco de Dados, na qual 
 
 ## Descrição
 
-Este repositório contém a resolução de 10 questões de nível hard em MySQL, como parte do curso Técnico em Informática para 
+Este repositório contém a resolução de 10 questões de nív
 
 ## Estrutura do Repositório
 
