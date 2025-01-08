@@ -30,7 +30,7 @@ Este repositório contém a resolução de 10 questões de nível hard em MySQL,
    ```
 3. Execute os scripts SQL em seu ambiente MySQL para testar as resoluções das questões.
 
-## | Licença
+## 📑| Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 
